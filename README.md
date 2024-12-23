@@ -2,10 +2,6 @@
 
 A Python application for monitoring Mulesoft CloudHub 1.0 applications logs across multiple workers and control planes with customizable pattern matching and email alerts.
 
-## ⚠️ Important Note
-
-This tool is specifically designed for applications deployed on CloudHub 1.0. It is not compatible with CloudHub 2.0 deployments due to different API endpoints and authentication mechanisms.
-
 ## Features
 
 - 🔄 Multi-worker support
@@ -132,6 +128,11 @@ mulesoft-log_monitoring/
 ├── README.md           # This file
 └── LICENSE             # MIT License
 ```
+
+## Compatibility
+
+This tool is specifically designed for applications deployed on CloudHub 1.0. It is not compatible with CloudHub 2.0 deployments due to different API endpoints and authentication mechanisms.
+
 
 ## Contributing
 
