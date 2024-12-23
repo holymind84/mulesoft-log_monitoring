@@ -1,0 +1,7 @@
+[
+  {
+    "type": "Error",
+    "search_string": "Critical error",
+    "mail": ["admin@example.com"]
+  }
+]
