@@ -152,7 +152,7 @@ For support, please:
 
 If you find this project helpful, consider supporting its development:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/holymind84)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SBernardini84)
 
 Supporting this project helps:
 - 🚀 Maintain and improve the codebase
