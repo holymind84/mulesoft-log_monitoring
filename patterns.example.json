@@ -2,6 +2,13 @@
   {
     "type": "Error",
     "search_string": "Critical error",
-    "mail": ["admin@example.com"]
+    "mail": ["admin@example.com"],
+    "app_name": "your-mule-app-name"
+  },
+  {
+    "type": "Warning",
+    "search_string": "High CPU usage",
+    "mail": ["ops@example.com", "admin@example.com"],
+    "app_name": "another-mule-app"
   }
 ]
